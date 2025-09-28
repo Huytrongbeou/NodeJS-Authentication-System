@@ -1,7 +1,7 @@
 # Node.js Authentication System
 
 This project contains a complete authentication system using Node.js, Express, and MongoDB. It includes features like sign up, sign in, sign out, password reset, and social authentication (Google). The project is structured to be scalable with separate components for models, controllers, and routes.
-## Note: Every test function images were store in public/results
+# Note: -> Note: Every test function images were store in public/results <-
 ## Live Site
 [Click here](https://nodejs-authentication-system-l2pu.onrender.com/user/signin) to visit the live site.
 
@@ -106,3 +106,4 @@ This project was created by [Ravikant Singh](https://github.com/ravikantsingh12)
 ## Follow me on
 
 - [LinkedIn](https://www.linkedin.com/in/ravikant-singh-327a98241)
+# -> Note: Every test function images were store in public/results <-
